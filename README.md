@@ -6,3 +6,5 @@ src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&s
 ### Main skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+
+![Habilidades](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github)
