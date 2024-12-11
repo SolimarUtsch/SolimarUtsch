@@ -1,5 +1,5 @@
 <img width=100%
-src="https://capsule-render.vercel.app/api?type=waving&color=FF4941&height=120&section=header"/>
+src="https://capsule-render.vercel.app/api?type=waving&color=FF0041&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA500&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Solimar+Utsch;I+am+an+Agile+Project+Manager+data-driven;20+years+leading+teams,+innovative+projects;and+managing+global+marketing+campaigns.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
